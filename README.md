@@ -1,4 +1,3 @@
-duck
-mahmut
-cat
-# Gitprojekt
+Duck
+Mahmut
+Cat
