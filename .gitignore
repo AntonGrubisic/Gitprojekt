@@ -11,10 +11,7 @@
 *.iws
 *.iml
 *.ipr
-*.jar
-out/
-target/
-!target/**/*.html
+
 
 
 ### Eclipse ###
@@ -41,3 +38,8 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+*.jar
+out/
+target/
+!target/*.html
