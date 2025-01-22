@@ -11,7 +11,7 @@
 *.iws
 *.iml
 *.ipr
-.jar/*
+*.jar
 out/
 target/
 !target/**/*.html
